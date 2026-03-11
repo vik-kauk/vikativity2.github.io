@@ -1,2 +1,4 @@
 # vikativity2.github.io
-Hello word
+theme: jekyll-theme-minimal
+title: Vikativity
+description: Hello world
